@@ -10,4 +10,4 @@ and ensure that any user to the website had a clear understanding of what horise
 
  
 
-https://ryanblessing.github.io/horison-refactoring-/
+https://ryanblessing.github.io/horiseon-refactoring-/
